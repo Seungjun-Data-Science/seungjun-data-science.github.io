@@ -62,18 +62,18 @@ author:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
-    - label: LinkedIn
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kimseungjun/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Seungjun-Data-Science"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/juny.music"
-     - label: "Spotify"
-      icon: "fab fa-fw fa-spotify"
-      url: "https://open.spotify.com/artist/5ZHVsrpwCO8LOcv3JXXfU9"
+#     - label: LinkedIn
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/kimseungjun/"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/Seungjun-Data-Science"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/juny.music"
+#      - label: "Spotify"
+#       icon: "fab fa-fw fa-spotify"
+#       url: "https://open.spotify.com/artist/5ZHVsrpwCO8LOcv3JXXfU9"
 
 footer:
   links:
