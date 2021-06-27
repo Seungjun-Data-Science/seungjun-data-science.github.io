@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/28342182_1985233261490089_1675824873_o.jpg"
-  bio    : "Research Associate @ CJARS (U-M ISR)"
+  bio    : "Research Associate @ CJARS"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
