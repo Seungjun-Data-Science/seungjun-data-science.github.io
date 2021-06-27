@@ -1,7 +1,7 @@
 ---
 permalink: /competition/
 title: "Competitions"
-layout: collection
+layout: archive
 classes: wide
 ---
 
