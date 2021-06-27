@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Josh Kim"
   avatar : "/assets/images/28342182_1985233261490089_1675824873_o.jpg"
   bio    : "Research Associate @ CJARS"
   links:
