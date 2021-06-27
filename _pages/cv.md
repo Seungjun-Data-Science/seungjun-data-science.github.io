@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "CV"
-layout: collections
+layout: archive
 classes: wide
 ---
 
