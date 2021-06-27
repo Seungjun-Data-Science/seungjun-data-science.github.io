@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About Me!"
 classes: wide
-layout: collections
+layout: archive
 ---
 
 I am a Data Scientist who hopes to leverage the power of Data and AI to inform policymakers to make equitable policies, address societal problems and stand on the side of the marginalized in society. I graduated from Vassar College with a B.A. Degree in Mathematics and minors in Computer Science and Chinese.
