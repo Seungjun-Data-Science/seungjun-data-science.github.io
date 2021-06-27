@@ -14,7 +14,7 @@ My hometown is Republic of Korea (South Korea). My hobbies are body building/wor
 
 Some Useful Links to get to know more of me!
 
-- 💼 LinkedIn https://www.linkedin.com/in/kimseungjun/
-- 😺 Github https://github.com/Seungjun-Data-Science
-- 📸 Instagram https://www.instagram.com/juny.music
-- 🎵 Spotify https://open.spotify.com/artist/5ZHVsrpwCO8LOcv3JXXfU9
+- 💼 [LinkedIn](https://www.linkedin.com/in/kimseungjun/)
+- 😺 [Github](https://github.com/Seungjun-Data-Science)
+- 📸 [Instagram](https://www.instagram.com/juny.music)
+- 🎵 [Spotify](https://open.spotify.com/artist/5ZHVsrpwCO8LOcv3JXXfU9)
