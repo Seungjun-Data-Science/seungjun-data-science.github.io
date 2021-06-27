@@ -1,7 +1,7 @@
 ---
 permalink: /music/
 title: "MUSIC"
-layout: collections
+layout: archive
 classes: wide
 ---
 
