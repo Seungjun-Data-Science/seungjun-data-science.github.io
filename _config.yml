@@ -62,7 +62,7 @@ author:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
-    - label: "LinkedIn"
+    - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kimseungjun/"
     - label: "GitHub"
