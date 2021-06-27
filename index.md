@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /https://seungjun-data-science.github.io/
 title: "About Me!"
 classes: wide
 layout: archive
