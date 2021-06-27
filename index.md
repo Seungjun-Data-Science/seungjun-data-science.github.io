@@ -1,4 +1,5 @@
 ---
+permalink: //
 title: "About Me!"
 classes: wide
 layout: archive
