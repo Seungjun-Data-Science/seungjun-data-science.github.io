@@ -1,8 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me!"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Data Scientist who hopes to leverage the power of Data and AI to inform policymakers to make equitable policies, address societal problems and stand on the side of the marginalized in society. I graduated from Vassar College with a B.A. Degree in Mathematics and minors in Computer Science and Chinese.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am broadly interested in Data Science for Social Good. I am also a Amateur Musician who loves to sing, play the drums and perform. Check the My Music section on the upper right hand corner if you want to get to know more about my music! I am always down for music collaborations, so hit me up on my instagram or LinkedIn!
+
+My hometown is Republic of Korea (South Korea). 
