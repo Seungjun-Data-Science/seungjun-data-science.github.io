@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /project/
 title: "Projects"
 layout: archive
 classes: wide
