@@ -5,7 +5,7 @@ layout: archive
 classes: wide
 ---
 
-![Curriculum Vitae](/assets/images/CV_for_age.pdf)
+![Curriculum Vitae](https://github.com/Seungjun-Data-Science/seungjun-data-science.github.io/blob/master/assets/images/CV_for_page.pdf)
 
 ### Education 
 - Vassar College (May 2020, Poughkeepsie NY)
