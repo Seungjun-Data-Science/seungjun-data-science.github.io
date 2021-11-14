@@ -5,6 +5,8 @@ layout: archive
 classes: wide
 ---
 
+<embed src="/assets/images/CV_for_age.pdf" type="application/pdf">
+
 ### Education 
 - Vassar College (May 2020, Poughkeepsie NY)
   - B.A. in Mathematics (Departmental Honors)
