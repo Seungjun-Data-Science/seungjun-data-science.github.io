@@ -5,7 +5,7 @@ layout: archive
 classes: wide
 ---
 
-<image src="/assets/images/CV_for_page.pdf"/>
+<embed src="/assets/images/CV_for_page.pdf" type="application/pdf">
 
 ### Education 
 - Vassar College (May 2020, Poughkeepsie NY)
