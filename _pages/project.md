@@ -29,4 +29,11 @@ How do prior and posterior distributions compare to each other?
 - [Slides](https://github.com/Seungjun-Data-Science/Data-Science-Projects/blob/master/MATH301-Data-Science-Senior-Seminar-NYC-Airbnb-Analysis/Final-Paper-%26-Final-Presentation-Slides/Josh%20Kim%20-%20MATH301%20Final%20Project%20Presentation.pptx)
 - [Full Code](https://github.com/Seungjun-Data-Science/Data-Science-Projects/tree/master/MATH301-Data-Science-Senior-Seminar-NYC-Airbnb-Analysis)
 
+##### Real, Fake and Sarcastic News Detection in a Class Imbalance Setting
+- CS366 Computational Linguisitics Final Project
+- Aim to build a model that achieves similar or better classification performance using just the titles / headlines
+- [Final Report](https://github.com/Seungjun-Data-Science/Data-Science-Projects/blob/master/CS366-Computational-Linguistics-NLP-Final-Project/CMPU366%20Seungjun%20Josh%20Kim%20Final%20Proj%20Paper.pdf)
+- [Full Code](https://github.com/Seungjun-Data-Science/Data-Science-Projects/tree/master/CS366-Computational-Linguistics-NLP-Final-Project)
+
+
 
