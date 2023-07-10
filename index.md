@@ -6,7 +6,7 @@ layout: archive
 author_profile: true
 ---
 
-I am a 1st year Informatics PhD Student at [UC Irvine](https://www.informatics.uci.edu/grad/phd-informatics/) advised by [Dr. Sean D. Young](http://seanyoungphd.com/). I am a Data Scientist who hopes to leverage the power of Data and AI to inform policymakers to make equitable policies, resolve societal problems and stand on the side of the marginalized in society. I graduated from Vassar College with a B.A. Degree in Mathematics and minors in Computer Science and Chinese. Until the Summer of 2022, I worked as a Research Area Specialist at [CJARS](https://cjars.isr.umich.edu/).
+I am a 2nd year Informatics PhD Student at [UC Irvine](https://www.informatics.uci.edu/grad/phd-informatics/) advised by [Dr. Sean D. Young](http://seanyoungphd.com/). I am a Data Scientist who hopes to leverage the power of Data and AI to inform policymakers to make equitable policies, resolve societal problems and stand on the side of the marginalized in society. I graduated from Vassar College with a B.A. Degree in Mathematics and minors in Computer Science and Chinese. Until the Summer of 2022, I worked as a Research Area Specialist at [CJARS](https://cjars.isr.umich.edu/).
 
 In terms of research interests, I am broadly interested in:
 - Data Science for Social Good and Health Informatics.
