@@ -10,9 +10,8 @@ classes: wide
 powered chatbots for the treatment of mental health issues, the algorithms and frameworks employed fell short in replicating the nuanced dimensions of
 counseling as practiced by human counselors. This project aims to explore the potential of AI and Large Language models in providing counseling
 support, with the ultimate objective of enhancing the accessibility of counseling services. Hallmarks of good counselors (e.g. lengthier text, high proportions of positivity in the text etc.) are identified via literature review and some of those aspects are used as points of comparison between human counselor responses and AI (in our case, Dolly) generated responses to mental health patient questions using the CounselChat Data.
-- [Write-Up](https://github.com/chunyj/cs272_finalproject/blob/main/Team_JSJ_FinalProject.pdf)
-- [Full Code](https://github.com/chunyj/cs272_finalproject/tree/main)
-
+- [Full Code](https://github.com/Seungjun-Data-Science/Data-Science-Projects/tree/master/DollyLLM-MentalHealthCounseling)
+- [Write-Up](https://github.com/Seungjun-Data-Science/Data-Science-Projects/blob/master/DollyLLM-MentalHealthCounseling/Team_JSJ_FinalProject.pdf)
 
 ##### Comparing Depression Levels of People during 2008 SubPrime Mortgage Crisis v.s. 2020 COVID-19 Pandemic
 
