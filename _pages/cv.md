@@ -5,4 +5,4 @@ layout: archive
 classes: wide
 ---
 
-<embed src="/assets/images/CV_for_page.pdf" type="application/pdf">
+<embed src="/assets/images/Josh_Kim_CV.docx" type="application/docx">
