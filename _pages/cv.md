@@ -5,4 +5,4 @@ layout: archive
 classes: wide
 ---
 
-<embed src="/assets/images/Josh_Kim_CV.docx" type="application/docx">
+[Download My CV]([https://github.com/johndoe/resume/raw/main/documents/John_Doe_CV.docx](https://github.com/Seungjun-Data-Science/seungjun-data-science.github.io/blob/master/assets/images/Josh_Kim_CV.docx)https://github.com/Seungjun-Data-Science/seungjun-data-science.github.io/blob/master/assets/images/Josh_Kim_CV.docx)
