@@ -1,6 +1,6 @@
 ---
 permalink: /project/
-title: "DS Projects"
+title: "Projects"
 layout: archive
 classes: wide
 ---
