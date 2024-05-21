@@ -7,8 +7,10 @@ main:
     url: /blog/
   - title: "Competitions"
     url: /competition/
-  - title: "Projects"
+  - title: "DS Projects"
     url: /project/
+  - title: "UX Portfolio"
+    url: /ux_portfolio/
   - title: "My Music"
     url: /music/
   - title: "Publications"
