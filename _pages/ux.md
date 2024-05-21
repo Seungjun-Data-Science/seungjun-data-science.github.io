@@ -1,5 +1,5 @@
 ---
-permalink: /music/
+permalink: /ux_portfolio/
 title: "UX Portfolio"
 layout: archive
 classes: wide
