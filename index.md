@@ -6,7 +6,7 @@ layout: archive
 author_profile: true
 ---
 
-I am a 3rd year Informatics PhD Student at [UC Irvine](https://www.informatics.uci.edu/grad/phd-informatics/) advised by [Dr. Sean D. Young](http://seanyoungphd.com/). I am a AI Researcher with a background in Data Science and UX Research, hoping to improve healthcare (especially mental health) for the marginalized populations by unlocking the potential of AI. I graduated from Vassar College with a B.A. Degree in Mathematics and minors in Computer Science and Chinese. Until the Summer of 2022, I worked as a Research Data Engineer at [CJARS](https://cjars.isr.umich.edu/), Institute for Social Research, University of Michigan.
+I am a 3rd year Informatics PhD Student at [UC Irvine](https://www.informatics.uci.edu/grad/phd-informatics/) advised by [Dr. Sean D. Young](http://seanyoungphd.com/). I am a AI Researcher with a background in Data Science and UX Research, hoping to improve healthcare (especially mental health) for the marginalized populations by unlocking the potential of AI. I graduated from Vassar College with a B.A. Degree in Mathematics and minors in Computer Science and Chinese. I interned as a Data Science Intern at Spotify (New York Office) in the Summer of 2019. Until the Summer of 2022, I worked as a Research Data Engineer at [CJARS](https://cjars.isr.umich.edu/), Institute for Social Research, University of Michigan.
 
 In terms of research interests, I am broadly interested in:
 - Improving mental health outcomes (e.g. reduce stress, anxiety, depression) of marginalized populations using AI and Large Language Models including international college students in the U.S., the elderly with no access to healthcare etc.
