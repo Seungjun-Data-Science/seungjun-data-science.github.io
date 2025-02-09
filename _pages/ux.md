@@ -1,6 +1,6 @@
 ---
 permalink: /ux_portfolio/
-title: "UX Portfolio"
+title: "UXR & PM"
 layout: archive
 classes: wide
 ---
