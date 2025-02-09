@@ -5,6 +5,6 @@ layout: archive
 classes: wide
 ---
 
-[Access my CV](https://drive.google.com/file/d/1j-hieZ1hZHuFlKUlBnUmE-BhvDBtxP2Z/view?usp=sharing)
+[Access my CV](https://drive.google.com/drive/u/1/folders/143OS7OQFJLFXY39RMmzInygftpp5BBAw)
 
 
